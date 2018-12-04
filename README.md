@@ -1,4 +1,4 @@
-# transcriptomesaturation
+# Transcriptome Saturation
 "Transcriptome saturation" (aka, "coverage") is a sensitivty metric that 
 attempts to estimate the breadth of capture of unique transcripts by 
 RNA-seq. It is particularly of interest when considering rare/relatively 
